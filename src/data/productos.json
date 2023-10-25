@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Acer A315",
+    "description": "Laptop para el hogar",
+    "code": "ABC123",
+    "price": 29.99,
+    "stock": 100,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta1.jpg",
+      "ruta2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Laptop Apple z45",
+    "description": "Laptop para la oficina",
+    "code": "ABC435",
+    "price": 99.99,
+    "stock": 200,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta3.jpg",
+      "ruta4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Laptop Hp 15-cf2035la",
+    "description": "Laptop para la oficina",
+    "code": "ABC569",
+    "price": 69.99,
+    "stock": 1000,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta5.jpg",
+      "ruta6.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Laptop Lenovo x360",
+    "description": "Laptop para la oficina",
+    "code": "ABC725",
+    "price": 79.99,
+    "stock": 2000,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta7.jpg",
+      "ruta8.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Teléfono Samsung Galaxy S21",
+    "description": "Smartphone de gama alta",
+    "code": "XYZ456",
+    "price": 799.99,
+    "stock": 50,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta9.jpg",
+      "ruta10.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Televisor LG 4K",
+    "description": "Televisor Ultra HD",
+    "code": "LMN789",
+    "price": 599.99,
+    "stock": 30,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta11.jpg",
+      "ruta12.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Auriculares Inalámbricos",
+    "description": "Auriculares Bluetooth",
+    "code": "DEF123",
+    "price": 49.99,
+    "stock": 100,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta13.jpg",
+      "ruta14.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tableta Samsung Galaxy Tab",
+    "description": "Tableta Android",
+    "code": "NOP456",
+    "price": 199.99,
+    "stock": 40,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta15.jpg",
+      "ruta16.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Impresora HP DeskJet",
+    "description": "Impresora de inyección de tinta",
+    "code": "GHI101",
+    "price": 79.99,
+    "stock": 70,
+    "category": "Electrónica",
+    "status": true,
+    "thumbnails": [
+      "ruta19.jpg",
+      "ruta20.jpg"
+    ]
+  }
+]

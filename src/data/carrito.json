@@ -1,0 +1,72 @@
+[
+  {
+    "id": "442744",
+    "products": [
+      {
+        "title": "Laptop Acer A315",
+        "product": "1",
+        "quantity": 16
+      },
+      {
+        "title": "Impresora HP DeskJet",
+        "product": "10",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": "134373",
+    "products": [
+      {
+        "title": "Laptop Apple z45",
+        "product": "2",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "548356",
+    "products": [
+      {
+        "title": "Teléfono Samsung Galaxy S21",
+        "product": "5",
+        "quantity": 5
+      },
+      {
+        "title": "Auriculares Inalámbricos",
+        "product": "7",
+        "quantity": 80
+      }
+    ]
+  },
+  {
+    "id": "99485",
+    "products": [
+      {
+        "title": "Laptop Hp 15-cf2035la",
+        "product": "3",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "id": "777670",
+    "products": [
+      {
+        "title": "Teléfono Samsung Galaxy S21",
+        "product": "5",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "497274",
+    "products": [
+      {
+        "title": "Televisor LG 4K",
+        "product": "6",
+        "quantity": 4
+      }
+    ]
+  }
+]
